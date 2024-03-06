@@ -1,0 +1,121 @@
+#principal
+{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgb(127, 255, 244);
+    margin: 20px;
+}
+#sombrerouno
+{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    position: relative;
+    left: 300px; 
+    top: 10px;
+}
+#som
+{
+    width: 600px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    position: relative;
+    left: 200px; 
+    top: 0px;
+}
+#cara
+{
+    width: 500px;
+    height: 650px;
+    background-color: 
+    rgb(250, 126, 10);
+    border-radius: 800px;
+    position: fixed;
+    left: 280px; 
+    top: 130px;
+}
+#cachete
+{
+    width: 380px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 800px;
+    display: inline-block;
+    position: relative;
+    left: 60px;
+    top: 120px;
+}
+#nariz
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 238, 0);
+    border-radius: 800px;
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}
+#ojouno
+{
+    width: 100px;
+    height: 200px;
+    background-color: white;
+    border-radius: 800px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+#ojodos
+{
+    width: 100px;
+    height: 200px;
+    background-color: white;
+    border-radius: 800px;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+#iris
+{
+    width: 60px;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 800px;
+    position: absolute;
+    left: 325px;
+    top: 200px;
+}
+#irisdos
+{
+    width: 60px;
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 800px;
+    position: absolute;
+    left: 120px;
+    top: 200px;
+}
+#voca
+{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(7, 7, 7);
+    display: inline-block;
+    position: relative;
+    left: 60px; 
+    top: 80px;
+}
+#cachetedos
+{
+    width: 350px;
+    height: 180px;
+    background-color: blueviolet;
+    border-radius: 800px;
+    position: absolute;
+    left: 75px;
+    top: 380px;
+}
